@@ -1,0 +1,6 @@
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\Exceptions\obj\Debug\Exceptions.pdb

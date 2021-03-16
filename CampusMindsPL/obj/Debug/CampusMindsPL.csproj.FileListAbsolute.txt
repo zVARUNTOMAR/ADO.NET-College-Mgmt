@@ -1,0 +1,16 @@
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\bin\Debug\CampusMindsPL.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\bin\Debug\CampusMindsBL.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\bin\Debug\CampusMindsManagement.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\bin\Debug\Exceptions.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\bin\Debug\CampusMindsDL.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\bin\Debug\CampusMindsBL.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\bin\Debug\CampusMindsManagement.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\bin\Debug\Exceptions.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\bin\Debug\CampusMindsDL.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\obj\Debug\CampusMindsPL.csprojAssemblyReference.cache
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\obj\Debug\CampusMindsPL.csproj.CoreCompileInputs.cache
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\obj\Debug\CampusMindsPL.csproj.CopyComplete
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\obj\Debug\CampusMindsPL.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\bin\Debug\CampusMindsPL.exe.config
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\bin\Debug\CampusMindsPL.exe
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsPL\obj\Debug\CampusMindsPL.exe

@@ -1,0 +1,13 @@
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\bin\Debug\CampusMindsBL.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\bin\Debug\CampusMindsBL.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\bin\Debug\CampusMindsDL.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\bin\Debug\CampusMindsManagement.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\bin\Debug\Exceptions.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\bin\Debug\CampusMindsDL.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\bin\Debug\CampusMindsManagement.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\bin\Debug\Exceptions.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\obj\Debug\CampusMindsBL.csprojAssemblyReference.cache
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\obj\Debug\CampusMindsBL.csproj.CoreCompileInputs.cache
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\obj\Debug\CampusMindsBL.csproj.CopyComplete
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\obj\Debug\CampusMindsBL.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsBL\obj\Debug\CampusMindsBL.pdb

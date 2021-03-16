@@ -1,0 +1,6 @@
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsManagement\bin\Debug\CampusMindsManagement.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsManagement\bin\Debug\CampusMindsManagement.pdb
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsManagement\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsManagement\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsManagement\obj\Debug\CampusMindsManagement.dll
+C:\Users\R3CK3R\source\repos\CampusMindsManagement\CampusMindsManagement\obj\Debug\CampusMindsManagement.pdb
